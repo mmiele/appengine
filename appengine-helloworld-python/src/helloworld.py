@@ -1,3 +1,5 @@
+''' Sample to show the use of EGit (Git plugin for Eclipse).'''
+
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
