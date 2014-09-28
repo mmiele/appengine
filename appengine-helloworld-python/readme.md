@@ -1,7 +1,7 @@
 Sample project to test the use of EGit plugin in Eclipse.
 
 This is a companion program used to show how to set Git (EGit plugin) and use it within Eclipse.
-Please refer to this <a href="TBD" target="_blank">blog post</a> for a detailed discussion  on this topic
+Please refer to this <a href="http://wp.me/p42Y8L-cP" target="_blank">blog post</a> for a detailed discussion  on this topic
 
 <h3>Background</h3>
 EGit is an Eclipse plugin which allows to use the distributed version control system Git directly within the Eclipse IDE.
@@ -16,5 +16,4 @@ Most Eclipse 4.2 (Juno) and Eclipse 4.3 (Kepler) downloads from Eclipse.org cont
 In this case no additional installation is required.
 </p>
 
-For more information, see <a href="http://www.vogella.com/tutorials/EclipseGit/article.html" target="_blank">Git version control with Eclipse (EGit)</a>.
 
